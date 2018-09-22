@@ -1,8 +1,9 @@
 title: TIMWANG.ME
+author: Tim Wang
 email: tim.wangyao@gmail.com
-description: >-
+description: >
   Frontend Developer
-  / Working in Shanghai
+  / Shanghai
   / React Native Collaborators
   / TypeScript Enthusiasts
   / React / NodeJS / DevOps
@@ -10,8 +11,18 @@ baseurl: ""
 url: "https://timwang.me"
 twitter_username: jekyllrb
 github_username:  jekyll
+rss: rss
 
 theme: minima
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+header_pages:
+- about.md
+
 plugins:
   - jekyll-feed
 
