@@ -4,9 +4,9 @@ title:  "React Native Project Sharing"
 date:   2018-07-04 12:00:00 +0800
 ---
 
-_See orignal post at [TheNetCircle company website](https://thenetcircle.com/updates/research-sharing-react-native/)._
+_Orignal post at [TheNetCircle company website](https://thenetcircle.com/updates/research-sharing-react-native/)._
 
-<iframe src="//slides.com/timwangdev/react-native-at-dating-framework/embed" width="678" height="464" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+<iframe src="//slides.com/timwangdev/react-native-at-dating-framework/embed" width="678" height="464" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 When we started the new app project at Dating Framework Team, we did a lot of researches on cross-platform solutions. Soon, React Native stood out as the most promising one, based on its large community and fast iteration speed. In this blog, I’d like to share our experience with React Native, the challenges we took and the problems we solved in almost one year.
 
