@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Tim (Yao) Wang, I'm currently working in Shanghai as a frontend developer. I create apps and websites.
+My name is Tim (Yao) Wang, and I'm currently working in Shanghai as a frontend developer. I create apps and websites. Design and develop user interface is always a fascinating work for me because this is the place I could feel, understand and talk with the users.
 
 I love open source community and also make my contribution to it. Some of my work can be found on [Github](https://github.com/timwangdev).
 
