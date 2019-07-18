@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-My name is Tim (Yao) Wang, and I'm currently working in Shanghai as a frontend developer. I create apps and websites. Design and develop user interface is always a fascinating work for me because this is the place I could feel, understand and talk with the users.
+My name is Tim (Yao) Wang, I've working on frontend development for over three years. I'm currently a master student of computer science in the UK.
+
+I create apps and websites. Design and develop user interface is always a fascinating work for me because this is the place I could feel, understand and talk with the users.
 
 I love open source community and also make my contribution to it. Some of my work can be found on [Github](https://github.com/timwangdev).
 
-You can send email to [i@timwang.me](mailto:i@timwang.me) or "@" me on [Twitter](https://twitter.com/timwangdev).
+You can send email to [tim.wangyao@gmail.com](mailto:tim.wangyao@gmail.com) or DM me on [Twitter(@timwangdev)](https://twitter.com/timwangdev).
 
 ---
 <br>
